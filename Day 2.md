@@ -26,22 +26,25 @@ The various parts of the transformers covered in the practical demonstration wer
 
 3. Cooling Fans: It give Air force when the transformer heats up.There wre five of them on either side of the transformer.
 
-<img src="Image 1.3 Cooling System.jpg" width="400">
+<img src="images/Image%201.3%20Cooling System.jpg" width="400">
 </br>
+
 _Fig:Cooling System in the transformer_
 
 4. Conservator Tank: Its a big cylindrical shaped tank used to provide adequate space for the expansion of oil when transformer is loaded or when ambient temprature changes.
 
 
-<img src="1.6 Image_Conservator Tank.jpg" width="400">
+<img src="images/1.6 Image_Conservator Tank.jpg" width="400">
 </br>
+
 _Fig:Conservator Tank_
 
 5. Breather:It sucks the moisture content with the help of Silica Gel crystals inside it so that dry air can be taken by the transformer.
 
 
-<img src="Image 1.7 Breather.jpg" width="400">
+<img src="images/Image 1.7 Breather.jpg" width="400">
 </br>
+
 _Fig:Breather_
 
 6. Buchholz Relay Box: Its a box present between the connecting pipe to the conservator tank.It trips and stops the entire setups when there is internal fault in he system.
@@ -54,12 +57,12 @@ _Fig:Breather_
                    2. OTI or Oil Temperature Indicator,used to show the oil level in the transformer.
                    
  
-<img src="Image 1.4 Cooling and Protection Control Panel.jpg" width="400">
+<img src="images/Image 1.4 Cooling and Protection Control Panel.jpg" width="400">
 </br>
 _Fig:Marshalling Box_
 </br>
 
-<img src="Image 1.5 Panel settings for the substation.jpg" width="400">
+<img src="images/Image 1.5 Panel settings for the substation.jpg" width="400">
 </br>
 _Fig:Marshalling Box Settings_
 </br>
@@ -84,6 +87,13 @@ There are three LA or lightening arrestors on either side of the transformers to
 
 We also learnt about the positional constraints of the lightening mast at the top.It is a single long pole which is raised to a height of few meters made of alumunium steel or galvanized iron.The area arount the mast which is protected is called cone of protection.
 The area on the ground which is within 30 degrees from from top of the mast lies within the "cone of protection".
+
+
+<img src="images/Image 1.8 Lightening Mast.jpg" width="400">
+</br>
+_Fig:Lightening Mast_
+</br>
+
 
 The transformers were fully earthed with the help of metal strips connected to the earth from every end.
 
