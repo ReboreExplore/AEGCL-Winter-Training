@@ -21,13 +21,29 @@ Okaay! Lets start of with the experiences straight away.
 Substation and Residential complex of Assam Electricity Grid Corporation Ltd.(AEGCL)<br>
 Sarusajai 220/132/33 kV Grid Substation.
 
+<img src ="images/Image%201.jpg" width="400">
+</br>
+
+_Fig:AEGCL,Sarusajai Substation_
+
 **Training Period :** 2 Jan onwards
 
 So were eight of us from Assam Engineering College.To start of with the training we were taken to the high voltage side i.e. the 220 kV side of the Substation.There was a loud enough buzzing sound in that part which was told would only come out from a 220kV side but would not hear the same in 133kV side or 33kV side.
 
 The flooring was all sand and peebles.
 
-First of all the electricity generated passes through the LA or Lightening Resister which is a protective components thus marking he first stage of the station.It is directely connected to earth to avoid excessive leakage or transmission of current.The main compound used there is ZnO2 which when becomes extremely conductive blasts the LA.
+<img src ="images/Image%202.jpg" width="400">
+</br>
+
+_Fig:AEGCL,Sarusajai Substation High Voltage Side_
+
+First of all the electricity generated passes through the LA or Lightening Arrester which is a protective components thus marking he first stage of the station.It is directely connected to earth to avoid excessive leakage or transmission of current.The main compound used there is ZnO2 which when becomes extremely conductive blasts the LA.
+
+<img src ="images/Image%203_Lightening%20Arrester.jpg" height="400">
+</br>
+
+_Fig:Lightening Arrester_
+
 
 Then the next stage is CVT(Capacitive Voltage Transformer).
 
