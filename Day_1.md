@@ -39,6 +39,10 @@ _Fig:AEGCL,Sarusajai Substation High Voltage Side_
 
 First of all the electricity generated passes through the LA or Lightening Arrester which is a protective components thus marking he first stage of the station.It is directely connected to earth to avoid excessive leakage or transmission of current.The main compound used there is ZnO2 which when becomes extremely conductive blasts the LA.
 
+<img src ="images/Image 3_Lightening Arrester.jpg" width="400">
+</br>
+
+_Fig:lightening Arrester_
 
 
 Then the next stage is CVT(Capacitive Voltage Transformer).
@@ -74,6 +78,7 @@ _Fig:Current Transformer_
 
 
 The next stage is the isolator stage.There are two types of Isolators- Single Break and Double Break Isolator.Here the single break Isolator is  used.It has a very very low resistance of 1 milliohm. This Resistance check is done via Constant Resistance Meter or CRM which has a resistance of the range 1 microohm.
+</br>
 <img src ="images/Image 6_Isolator.jpg" width="400">
 </br>
 
@@ -84,6 +89,8 @@ If there is some fault in this stage of CPM the system trips. The response time 
 Then we were plates in the conductor lines which were 11 of them whose simple function is to provide resistance.At this point we were introduced of an instrument called Megger.
 
 The overhead naked conductors are either suspension type of tension type.For a 220kV line the conductors are connected in Zebra type and in 133kV the conductors are connected in Panther type.
+
+
 <img src ="images/Image 8_Overhead Naked Conductors.jpg" width="400">
 </br>
 
