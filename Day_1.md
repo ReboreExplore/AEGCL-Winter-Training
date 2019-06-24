@@ -39,7 +39,7 @@ _Fig:AEGCL,Sarusajai Substation High Voltage Side_
 
 First of all the electricity generated passes through the LA or Lightening Arrester which is a protective components thus marking he first stage of the station.It is directely connected to earth to avoid excessive leakage or transmission of current.The main compound used there is ZnO2 which when becomes extremely conductive blasts the LA.
 
-<img src ="images/Image%203_Lightening%20Arrester.jpg" height="400">
+<img src ="images/Image 3_Lightening Arrester.jpg" width="400">
 </br>
 
 _Fig:Lightening Arrester_
@@ -47,7 +47,18 @@ _Fig:Lightening Arrester_
 
 Then the next stage is CVT(Capacitive Voltage Transformer).
 
+<img src ="images/Image 4_CVT.jpg" width="400">
+</br>
+
+_Fig:Capacitive Voltage Transformer_
+
+
 Then comes the Wave Trap which ensures the passage of on 50Hz frequency component and the other higher frequency components are passed on and filtered in PLCC(Power Line Carrier Communication).
+
+<img src ="images/Image%205_Wave%20Trap.jpg" width="400">
+</br>
+
+_Fig:Wave Trap_
 
 
 The next part is that of CT(Current Transformer).Its main function is metering and protection. It has various number of cores depending on the voltage line i.e. 220kV line has 5 cores, 132kV line requires 3 cores and the 33kV line has 2 cores.Its a step down transformer.A term accuric trus was introduced at this level which specifies the tolerance levels of safety.
