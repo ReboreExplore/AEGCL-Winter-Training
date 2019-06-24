@@ -59,12 +59,15 @@ _Fig:Breather_
  
 <img src="images/Image 1.4 Cooling and Protection Control Panel.jpg" width="400">
 </br>
+
 _Fig:Marshalling Box_
+
 </br>
 
 <img src="images/Image 1.5 Panel settings for the substation.jpg" width="400">
-</br>
+
 _Fig:Marshalling Box Settings_
+
 </br>
 
 
@@ -91,7 +94,9 @@ The area on the ground which is within 30 degrees from from top of the mast lies
 
 <img src="images/Image 1.8 Lightening Mast.jpg" width="400">
 </br>
+
 _Fig:Lightening Mast_
+
 </br>
 
 
