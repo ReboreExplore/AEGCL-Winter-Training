@@ -11,8 +11,6 @@ Then we saw the panels from the feeders of various substations and gained a brie
 
 <img src="images/Feeder 1.jpg" width="400">
 
-<img src="images/Feeder 1.jpg" width="400">
-
 
 With this we concluded our Training Program in AEGCL, Sarusajai Substation.
 
