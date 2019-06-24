@@ -39,10 +39,6 @@ _Fig:AEGCL,Sarusajai Substation High Voltage Side_
 
 First of all the electricity generated passes through the LA or Lightening Arrester which is a protective components thus marking he first stage of the station.It is directely connected to earth to avoid excessive leakage or transmission of current.The main compound used there is ZnO2 which when becomes extremely conductive blasts the LA.
 
-<img src ="images/Image 3_Lightening Arrester.jpg" width="400">
-</br>
-
-_Fig:Lightening Arrester_
 
 
 Then the next stage is CVT(Capacitive Voltage Transformer).
@@ -70,17 +66,45 @@ The 4th core used here is for Backup Protection.
 The 5th core used here is for allowing around 10 times current to pass.
 Thus extentive safety and protections are used at this end.
 
+<img src ="images/Image 7_CT.jpg" width="400">
+</br>
+
+_Fig:Current Transformer_
+
+
+
 The next stage is the isolator stage.There are two types of Isolators- Single Break and Double Break Isolator.Here the single break Isolator is  used.It has a very very low resistance of 1 milliohm. This Resistance check is done via Constant Resistance Meter or CRM which has a resistance of the range 1 microohm.
+<img src ="images/Image 6_Isolator.jpg" width="400">
+</br>
+
+_Fig:Isolator Stage_
+
 If there is some fault in this stage of CPM the system trips. The response time of fault detection in a substation is done by a circuit breaker.Infact the first fault detection in any substation is done by a circuit breaker.
 
 Then we were plates in the conductor lines which were 11 of them whose simple function is to provide resistance.At this point we were introduced of an instrument called Megger.
 
 The overhead naked conductors are either suspension type of tension type.For a 220kV line the conductors are connected in Zebra type and in 133kV the conductors are connected in Panther type.
+<img src ="images/Image 8_Overhead Naked Conductors.jpg" width="400">
+</br>
+
+_Fig:Overhead Naked Conductors_
 
 Then we were informed about auxilliary bus,main bus and extended bus and the problems encountered due to hotspots. We were also the probable area of hotspots i.e. near the clamps,near the connecting ends.
 
-To end the day we were shown the transformer oil testing with the help of BDV or Breakdown Voltage Test.
+To end the day we were shown the transformer oil testing with the help of BVT or Breakdown Voltage Test.
 
-*So I think thats quite a bit for a day to be learnt.After not being aware of 90% of the stuffs mentioned towards the beginning I think I can call this day a good learning day.*
+<img src ="images/Image 9_Oil Testing Equipment.jpg" width="400">
+</br>
+
+_Fig:Oil Testing Equipment_
+
+<img src ="images/Image 10_Inside BVT.jpg" width="400">
+</br>
+
+_Fig:Inside the BVT_
+
+
+
+*So I think thats quite a bit for a day to be learnt.After not being aware of 90% of the stuffs mentioned towards the beginning I think I can call this day a good start of the training period.*
 ..
 
