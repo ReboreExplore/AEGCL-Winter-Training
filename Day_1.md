@@ -4,8 +4,6 @@
 
 **Date :** 2/1/2019
 
-**Time:** <br>10.00 am ......*Waiting*<br>
-
 Okaay! Lets start of with the experiences straight away.
 
 **Destination :**
