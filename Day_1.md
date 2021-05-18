@@ -5,15 +5,6 @@
 **Date :** 2/1/2019
 
 **Time:** <br>10.00 am ......*Waiting*<br>
-          10.45 am ......*Still Waiting*<br>
-          11.00 am ...................<br>
-          11.30 am ........*Attendence Time*<br>
-          11.45 am ........*Finally!! Its time..*<br>
-          11.50 am *...It starts of with the training*<br>
-     
-Ever since I applied for the internship at AEGCL I was very very confused (had to be..All thanks to my super talkative honking brain) whether to go for it or use that time at home for some online courses...(*Oh yes!! You are right I am a online course junkie ..*).
-But why not try something new! Its never clever to judge beforehand certainly. Lets see !!
-And yes experiences does count and I can make something good out of it and I should infact..(The self motivated me awakens).
 
 Okaay! Lets start of with the experiences straight away.
 
