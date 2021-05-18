@@ -1,4 +1,4 @@
-# Industrial-Winter-Training
+# AEGCL-Winter-Training
 An Industrial Training during by 3rd Undergraduate Year as a part of my curriculum.
 
 This internship was done sucessfully in AEGCL (ASSAM ELECTRICITY GRID CORPORATION LIMITED) and the notes related to the internship is provided here.
